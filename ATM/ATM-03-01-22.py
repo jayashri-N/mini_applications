@@ -1,3 +1,5 @@
+#ATM APPLICATION
+
 from os import system as sys
 import datetime
 amt={2000:0,500:0,200:0,100:0}
